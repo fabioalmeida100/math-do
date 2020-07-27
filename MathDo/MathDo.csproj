@@ -6,6 +6,14 @@
     <Description>Package for help in some math operations.</Description>
     <PackageProjectUrl>https://github.com/fabioalmeida100/math-do</PackageProjectUrl>
     <RepositoryUrl>https://github.com/fabioalmeida100/math-do</RepositoryUrl>
+    <PackageLicenseFile>LICENSE-MIT</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE-MIT">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
