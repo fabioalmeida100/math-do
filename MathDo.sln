@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathDo", "MathDo\MathDo.csproj", "{9D888AF4-B037-4EDD-BAA8-89C8DC86DBDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathDoTest", "MathDoTest\MathDoTest.csproj", "{E4336681-CF93-4183-9B3A-2429C391998B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D888AF4-B037-4EDD-BAA8-89C8DC86DBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D888AF4-B037-4EDD-BAA8-89C8DC86DBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D888AF4-B037-4EDD-BAA8-89C8DC86DBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D888AF4-B037-4EDD-BAA8-89C8DC86DBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4336681-CF93-4183-9B3A-2429C391998B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4336681-CF93-4183-9B3A-2429C391998B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4336681-CF93-4183-9B3A-2429C391998B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4336681-CF93-4183-9B3A-2429C391998B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0298688-4E6A-466C-91B4-83AE25E333DE}
+	EndGlobalSection
+EndGlobal
